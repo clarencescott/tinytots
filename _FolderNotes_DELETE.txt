@@ -1,0 +1,70 @@
+HTML Comment:
+  <!--Created in conjunction with Vidal Industries
+    ******************
+    Date: 01032025
+    ******************
+    Author: Clarence Scott
+    ******************
+    Contact: scottclarence5@gmail.com - 8102418724
+    ******************
+    Notes: This is a template folder that includes a pre-written code template.
+    Simply designed to import creativity, resources and exposure. 
+    For more information or questions for anything regarding this webpage, please fill out
+    the contact form in the contact section of my website https://clarencescott.tech/.
+    ******************
+    -->
+
+
+/project-root
+├── /src            # Source code
+│   ├── /components # Reusable components (e.g., UI elements)
+│   ├── /features   # Application features or modules
+│   ├── /services   # API calls, business logic
+│   ├── /utils      # Helper functions/utilities
+│   ├── /assets     # Images, fonts, icons, styles, scripts and other static assets
+│   └── index.js    # Main entry point
+├── /tests          # Test files (unit, integration, or end-to-end)
+├── /public         # Static files (e.g., HTML, favicon)
+├── /config         # Configuration files (e.g., database, environment)
+├── /docs           # Documentation and design files
+├── /build          # Compiled output (automatically generated)
+├── package.json    # Dependency management
+├── .gitignore      # Git ignore rules
+├── README.md       # Project overview
+└── LICENSE         # Licensing information
+
+
+Key Directories
+/src: Contains the core code of your application, split into logical areas such as features, components, services, and utilities.
+/tests: Stores all test cases for the project, organized similarly to the structure in /src.
+/config: Holds configuration files, such as database or environment-specific settings.
+/public: Contains publicly accessible static files (like index.html for web apps).
+/docs: Includes UML diagrams, technical documentation, or project specs.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+For Web Development (React/Angular/Node.js)
+
+/src
+├── /pages         # Page-level components
+├── /hooks         # Custom hooks
+├── /styles        # CSS/SCSS files
+└── /contexts      # Context API for state management
+
+
+
+
+
+For Backend/API Development (Node.js/Express)
+
+/src
+├── /routes        # API route definitions
+├── /controllers   # Logic for handling requests
+├── /models        # Database schemas/models
+├── /middleware    # Middleware functions
+└── /services      # Business logic or external service integrations

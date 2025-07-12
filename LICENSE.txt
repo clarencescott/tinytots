@@ -1,0 +1,22 @@
+Pre-Written Code Templates License
+
+Copyright (c) 2025 Clarence Scott II
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of these code templates (the "Templates"), to use the Templates for personal, educational, and commercial purposes, subject to the following conditions:
+
+1. Restrictions
+The Templates, or any derivative works, may not be resold, sublicensed, or distributed as-is for profit or as part of a competing product.
+You may not claim ownership of the Templates as your original work.
+
+2. Modifications
+You are permitted to modify the Templates to suit your needs, but you must include a credit or attribution to the original author in the modified version.
+
+3. Attribution and Credit
+When using the Templates for any project or publication, please provide attribution or credit in the following format:
+"Code Template by Clarence Scott II, https://clarencescott.tech or https://clarencescott.github.io | 810.241.8724 | scottclarence5@gmail.com or support@clarencescott.tech"
+
+4. Liability
+The Templates are provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author(s) or copyright holder(s) be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Templates or the use or other dealings in the Templates.
+
+5. Revocation
+This license may be revoked if the Templates are used for purposes deemed inappropriate, unethical, or in violation of any applicable laws.
